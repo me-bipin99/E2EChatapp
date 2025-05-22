@@ -1,23 +1,38 @@
-# Chat-Application with-End-to-End-Encryption
-Using Diffie-Hellman and AES Algorithm.
+### Chat Application with End-to-End Encryption
 
-### TO run 
-install all dependencies 
+A secure real-time chat application built with **Node.js**, **Express**, **Socket.io**, and **MongoDB**, featuring **Diffie-Hellman key exchange** and **AES encryption** for end-to-end secure messaging.
 
-create .env file 
-use mongodb uri  
-create session secret 
+---
 
-after completing it run using npm start 
+### Features
 
-chatappppp@1.0.0 starts and console shows 
+-  End-to-End Encryption with **Diffie-Hellman** + **AES**
+-  Real-time chat via **Socket.io**
+-  Secure session management
+-  Uses **MongoDB Atlas** for database
+-  Built with simplicity and security in mind
+
+---
+
+## 🛠️ Getting Started
+
+### 1. To run This project 
+ - create .env file
+ - fillup theese data
+ - 
+MONGODB_URI=your_mongodb_connection_string
+SESSION_SECRET=your_secure_session_secret
+
+
+***Then Run npm start***
+
+If successful, you will see:
 
 Configure public keys end.
-server is running
- Connected to MongoDB Atlas
-
- go to Localhost:3000 
+Server is running
+Connected to MongoDB Atlas
 
 
-### Thank YOu #######
+### visit Localhost:3000
 
+**********thank you**********
