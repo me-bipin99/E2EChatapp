@@ -17,6 +17,8 @@ A secure real-time chat application built with **Node.js**, **Express**, **Socke
 ### Getting Started
 
 ### 1. To run This project 
+ - ensure that **Node.js** and **npm** are installed. 
+ - install all the required dependencies by running the following command in your terminal: npm install
  - create .env file
  - fillup theese data
    
@@ -39,3 +41,7 @@ Connected to MongoDB Atlas
 ### visit Localhost:3000
 
 **********thank you**********
+
+
+### feel free to contact me if you have any queries , i'll try to help you ! 
+***Feel free to contribute too***
