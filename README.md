@@ -14,16 +14,17 @@ A secure real-time chat application built with **Node.js**, **Express**, **Socke
 
 ---
 
-## 🛠️ Getting Started
+### Getting Started
 
 ### 1. To run This project 
  - create .env file
  - fillup theese data
- - 
+   
 MONGODB_URI=your_mongodb_connection_string
+
 SESSION_SECRET=your_secure_session_secret
 
-
+---
 ***Then Run npm start***
 
 If successful, you will see:
