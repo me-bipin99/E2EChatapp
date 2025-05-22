@@ -27,10 +27,12 @@ SESSION_SECRET=your_secure_session_secret
 ---
 ***Then Run npm start***
 
-If successful, you will see:
+***If successful, you will see:***
 
 Configure public keys end.
+
 Server is running
+
 Connected to MongoDB Atlas
 
 
