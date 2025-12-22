@@ -1,4 +1,4 @@
-### Chat Application with End-to-End Encryption
+ Application with End-to-End Encryption
 
 A secure real-time chat application built with **Node.js**, **Express**, **Socket.io**, and **MongoDB**, featuring **Diffie-Hellman key exchange** and **AES encryption** for end-to-end secure messaging.
 
