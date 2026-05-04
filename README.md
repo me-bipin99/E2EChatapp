@@ -73,22 +73,6 @@ Open your browser and visit:
 http://localhost:3000
 ```
 
----
-
-## Project Structure
-
-```bash
-├── public/          # Frontend assets
-├── routes/          # Express routes
-├── models/          # MongoDB models
-├── socket/          # Socket.io logic
-├── encryption/      # DH + AES implementation
-├── .env
-├── server.js
-└── package.json
-```
-
----
 
 ## Security Notes
 
