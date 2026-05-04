@@ -31,18 +31,10 @@ This project implements secure messaging using **Diffie-Hellman Key Exchange** f
 
 ### 1. Clone the repository
 
-```bash
-git clone <your-repository-link>
-cd <project-folder>
-```
-
 ### 2. Install dependencies
 
 Make sure **Node.js** and **npm** are installed.
 
-```bash
-npm install
-```
 
 ### 3. Create `.env` file
 
